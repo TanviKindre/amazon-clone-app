@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/amazon-clone-app/static/css/main.72d31993.css",
+    "main.js": "/amazon-clone-app/static/js/main.71c1ef0f.js",
+    "static/js/453.cb4a23e9.chunk.js": "/amazon-clone-app/static/js/453.cb4a23e9.chunk.js",
+    "static/media/hero-image.jpg": "/amazon-clone-app/static/media/hero-image.912e94967552b0311429.jpg",
+    "static/media/toys.jpg": "/amazon-clone-app/static/media/toys.b47c54c4330e4c4d0341.jpg",
+    "static/media/globe-img.jpg": "/amazon-clone-app/static/media/globe-img.8ea10e21768c347490fa.jpg",
+    "static/media/deals-pc.jpg": "/amazon-clone-app/static/media/deals-pc.b36f2482ef0bf8b7aded.jpg",
+    "static/media/Amazon-logo.png": "/amazon-clone-app/static/media/Amazon-logo.64a0d895e5f0098d5422.png",
+    "static/media/lunar-new-year.jpg": "/amazon-clone-app/static/media/lunar-new-year.6a8a94e468b1951e1bc4.jpg",
+    "static/media/new-year-new-supplies.jpg": "/amazon-clone-app/static/media/new-year-new-supplies.29b1254804316871e7e4.jpg",
+    "static/media/Top-deal-polish.jpg": "/amazon-clone-app/static/media/Top-deal-polish.e9ebb6ce9d4a69b3db4e.jpg",
+    "static/media/flag.png": "/amazon-clone-app/static/media/flag.f7eeb7cc4336acbbf114.png",
+    "static/media/gaming-keyboard.jpg": "/amazon-clone-app/static/media/gaming-keyboard.af83f7c912d0b5cb81b1.jpg",
+    "static/media/fashion-shoes.jpg": "/amazon-clone-app/static/media/fashion-shoes.ef80e1e2b3f1af6374dd.jpg",
+    "static/media/fashion-jeans.jpg": "/amazon-clone-app/static/media/fashion-jeans.87e8c10dacfdc1d0458d.jpg",
+    "static/media/fashion-dress.jpg": "/amazon-clone-app/static/media/fashion-dress.c23de00ddbda79368be6.jpg",
+    "static/media/fashion-tops.jpg": "/amazon-clone-app/static/media/fashion-tops.cb6e0a2300bd4d4d8602.jpg",
+    "static/media/headphones.jpg": "/amazon-clone-app/static/media/headphones.ec3adafe5dfec6b29202.jpg",
+    "static/media/guitar.jpg": "/amazon-clone-app/static/media/guitar.e37c02c557e2b0e4e7d2.jpg",
+    "static/media/keyboard.jpg": "/amazon-clone-app/static/media/keyboard.e9301b3a79018cbfd071.jpg",
+    "static/media/gaming-headset.jpg": "/amazon-clone-app/static/media/gaming-headset.821cb82abe4c4a93cd9d.jpg",
+    "index.html": "/amazon-clone-app/index.html",
+    "main.72d31993.css.map": "/amazon-clone-app/static/css/main.72d31993.css.map",
+    "main.71c1ef0f.js.map": "/amazon-clone-app/static/js/main.71c1ef0f.js.map",
+    "453.cb4a23e9.chunk.js.map": "/amazon-clone-app/static/js/453.cb4a23e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d31993.css",
+    "static/js/main.71c1ef0f.js"
+  ]
+}
