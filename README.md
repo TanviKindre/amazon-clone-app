@@ -17,3 +17,7 @@ This project is a clone of the Amazon global website (https://www.amazon.com), f
 ### Demo
 
 You can view a live demo of the Amazon clone project [here](https://tanvikindre.github.io/amazon-clone-app/)
+
+Creator: For inquiries, collaborations, or further information, please reach out to [tanvikindre739@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=tanvikindre739@gmail.com&hl=en-GB)
+
+_Thank you for visiting the Amazon Web Clone repository! Happy browsing!_
